@@ -1,0 +1,370 @@
+[
+    {
+    "bic": "ABBLINBBXXX",
+    "recInstitutionName": "AB BANK LIMITED"
+    },
+    {
+    "bic": "ABNAINBBAHM",
+    "recInstitutionName": "ABN AMRO BANK N.V."
+    },
+    {
+    "bic": "ACBLINBBXXX",
+    "recInstitutionName": "ABHYUDAYA CO-OPERATIVE BANK LTD."
+    },
+    {
+    "bic": "ADCBINBBXXX",
+    "recInstitutionName": "ABU DHABI COMMERCIAL BANK"
+    },
+    {
+    "bic": "ADIAINBBXXX",
+    "recInstitutionName": "ANTWERP DIAMOND BANK N.V."
+    },
+    {
+    "bic": "ALLAINBBXXX",
+    "recInstitutionName": "ALLAHABAD BANK"
+    },
+    {
+    "bic": "ANDBINBBXXX",
+    "recInstitutionName": "ANDHRA BANK"
+    },
+    {
+    "bic": "AXISINBBXXX",
+    "recInstitutionName": "AXIS BANK LIMITED"
+    },
+    {
+    "bic": "BARBINBBXXX",
+    "recInstitutionName": "BANK OF BARODA"
+    },
+    {
+    "bic": "BARCINBBMUM",
+    "recInstitutionName": "BARCLAYS BANK PLC"
+    },
+    {
+    "bic": "BBKUINBBXXX",
+    "recInstitutionName": "BANK OF BAHRAIN AND KUWAIT B.S.C."
+    },
+    {
+    "bic": "BCEYIN5MXXX",
+    "recInstitutionName": "BANK OF CEYLON"
+    },
+    {
+    "bic": "BCMLINBBXXX",
+    "recInstitutionName": "THE BHARAT CO-OPERATIVE BANK (MUMBAI) LTD"
+    },
+    {
+    "bic": "BIC",
+    "recInstitutionName": "InstitutionName"
+    },
+    {
+    "bic": "BKDNINBBXXX",
+    "recInstitutionName": "DENA BANK"
+    },
+    {
+    "bic": "BKIDINBBXXX",
+    "recInstitutionName": "BANK OF INDIA"
+    },
+    {
+    "bic": "BNPAINBBAHM",
+    "recInstitutionName": "BNP PARIBAS INDIA"
+    },
+    {
+    "bic": "BOFAIN4XCCU",
+    "recInstitutionName": "BANK OF AMERICA, N.A. KOLKATA"
+    },
+    {
+    "bic": "BOFAIN4XMAA",
+    "recInstitutionName": "BANK OF AMERICA, N.A. CHENNAI"
+    },
+    {
+    "bic": "BOTKIN5MXXX",
+    "recInstitutionName": "BANK OF TOKYO-MITSUBISHI UFJ, LTD., THE"
+    },
+    {
+    "bic": "BRAJINBBARA",
+    "recInstitutionName": "THE BANK OF RAJASTHAN LTD."
+    },
+    {
+    "bic": "BSONINCCXXX",
+    "recInstitutionName": "SONALI BANK"
+    },
+    {
+    "bic": "CBININBBLAL",
+    "recInstitutionName": "CENTRAL BANK OF INDIA"
+    },
+    {
+    "bic": "CCILINBBXXX",
+    "recInstitutionName": "CLEARING CORPORATION OF INDIA LTD, THE"
+    },
+    {
+    "bic": "CHASINBXTRO",
+    "recInstitutionName": "JPMORGAN CHASE BANK, N.A."
+    },
+    {
+    "bic": "CITIINBXBLR",
+    "recInstitutionName": "CITIBANK N.A."
+    },
+    {
+    "bic": "CIUBIN5MXXX",
+    "recInstitutionName": "CITY UNION BANK LIMITED"
+    },
+    {
+    "bic": "CNRBINBBXXX",
+    "recInstitutionName": "CANARA BANK"
+    },
+    {
+    "bic": "CORPINBBXXX",
+    "recInstitutionName": "CORPORATION BANK"
+    },
+    {
+    "bic": "COSDINBBXXX",
+    "recInstitutionName": "THE COSMOS CO-OPERATIVE BANK LTD."
+    },
+    {
+    "bic": "CSYBIN55XXX",
+    "recInstitutionName": "CATHOLIC SYRIAN BANK LTD"
+    },
+    {
+    "bic": "CTCBINDDXXX",
+    "recInstitutionName": "CHINATRUST COMMERCIAL BANK"
+    },
+    {
+    "bic": "DBSSINBBIBD",
+    "recInstitutionName": "DBS BANK LTD, MUMBAI BRANCH"
+    },
+    {
+    "bic": "DCBLINBB036",
+    "recInstitutionName": "DEVELOPMENT CREDIT BANK LTD."
+    },
+    {
+    "bic": "DEUTINBBBGL",
+    "recInstitutionName": "DEUTSCHE BANK AG"
+    },
+    {
+    "bic": "DLXBINBBKPM",
+    "recInstitutionName": "DHANALAKSHMI BANK LTD, THE"
+    },
+    {
+    "bic": "EIBIINBBXXX",
+    "recInstitutionName": "EXPORT-IMPORT BANK OF INDIA"
+    },
+    {
+    "bic": "FDRLINBBXXX",
+    "recInstitutionName": "FEDERAL BANK LIMITED, THE"
+    },
+    {
+    "bic": "FIRNINBBXXX",
+    "recInstitutionName": "FIRSTRAND BANK LIMITED"
+    },
+    {
+    "bic": "GTBKINBBXXX",
+    "recInstitutionName": "ORIENTAL BANK OF COMMERCE"
+    },
+    {
+    "bic": "HDFCINBBAHM",
+    "recInstitutionName": "HDFC BANK LIMITED"
+    },
+    {
+    "bic": "HSBCINBBBGE",
+    "recInstitutionName": "HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED, THE"
+    },
+    {
+    "bic": "IBKLINBBXXX",
+    "recInstitutionName": "IDBI BANK LIMITED"
+    },
+    {
+    "bic": "ICICINBB024",
+    "recInstitutionName": "ICICI BANK LIMITED"
+    },
+    {
+    "bic": "IDIBINBBXXX",
+    "recInstitutionName": "INDIAN BANK"
+    },
+    {
+    "bic": "INDBINBBXXX",
+    "recInstitutionName": "INDUSIND BANK LIMITED"
+    },
+    {
+    "bic": "IOBAINBBXXX",
+    "recInstitutionName": "INDIAN OVERSEAS BANK"
+    },
+    {
+    "bic": "JAKAINBBAGR",
+    "recInstitutionName": "JAMMU AND KASHMIR BANK LTD"
+    },
+    {
+    "bic": "KALUINAAXXX",
+    "recInstitutionName": "THE KALUPUR COMMERCIAL CO-OPERATIVE BANK LIMITED"
+    },
+    {
+    "bic": "KARBINBBBNG",
+    "recInstitutionName": "KARNATAKA BANK LTD."
+    },
+    {
+    "bic": "KKBKINBBCPC",
+    "recInstitutionName": "KOTAK MAHINDRA BANK LIMITED"
+    },
+    {
+    "bic": "KRTHINBBXXX",
+    "recInstitutionName": "KRUNG THAI BANK PUBLIC COMPANY LTD"
+    },
+    {
+    "bic": "KVBLINBBADI",
+    "recInstitutionName": "KARUR VYSYA BANK LTD., THE"
+    },
+    {
+    "bic": "LAVBINBB114",
+    "recInstitutionName": "LAKSHMI VILAS BANK LIMITED"
+    },
+    {
+    "bic": "MAHBINBBAHM",
+    "recInstitutionName": "BANK OF MAHARASHTRA"
+    },
+    {
+    "bic": "MHCBINBBXXX",
+    "recInstitutionName": "MIZUHO CORPORATE BANK LTD"
+    },
+    {
+    "bic": "MSCIINBBXXX",
+    "recInstitutionName": "MAHARASHTRA STATE CO-OPERATIVE BANK LTD., THE"
+    },
+    {
+    "bic": "MSHQINBBXXX",
+    "recInstitutionName": "MASHREQ BANK"
+    },
+    {
+    "bic": "MSMBINBXXXX",
+    "recInstitutionName": "MORGAN STANLEY INDIA COMPANY PVT LTD"
+    },
+    {
+    "bic": "NOSCINBBBLR",
+    "recInstitutionName": "BANK OF NOVA SCOTIA, THE"
+    },
+    {
+    "bic": "OIBAINBBXXX",
+    "recInstitutionName": "OMAN INTERNATIONAL BANK"
+    },
+    {
+    "bic": "PSIBINBB020",
+    "recInstitutionName": "PUNJAB AND SIND BANK"
+    },
+    {
+    "bic": "PUNBINBBXXX",
+    "recInstitutionName": "PUNJAB NATIONAL BANK"
+    },
+    {
+    "bic": "RBISINBBXXX",
+    "recInstitutionName": "RESERVE BANK OF INDIA"
+    },
+    {
+    "bic": "SBBJINBBXXX",
+    "recInstitutionName": "STATE BANK OF BIKANER AND JAIPUR"
+    },
+    {
+    "bic": "SBCLINBBXXX",
+    "recInstitutionName": "SBI COMMERCIAL AND INTERNATIONAL BANK LTD."
+    },
+    {
+    "bic": "SBHYINBBXXX",
+    "recInstitutionName": "STATE BANK OF HYDERABAD"
+    },
+    {
+    "bic": "SBININBBXXX",
+    "recInstitutionName": "STATE BANK OF INDIA"
+    },
+    {
+    "bic": "SBMYINBBXXX",
+    "recInstitutionName": "STATE BANK OF MYSORE"
+    },
+    {
+    "bic": "SBTRINBBXXX",
+    "recInstitutionName": "STATE BANK OF TRAVANCORE"
+    },
+    {
+    "bic": "SCBLINBBMDS",
+    "recInstitutionName": "STANDARD CHARTERED BANK"
+    },
+    {
+    "bic": "SCDIIN51XXX",
+    "recInstitutionName": "SPARK CAPITAL ADVISORS (INDIA) PRIVATE LTD"
+    },
+    {
+    "bic": "SHBKINBBXXX",
+    "recInstitutionName": "SHINHAN BANK"
+    },
+    {
+    "bic": "SIDBINBBCBB",
+    "recInstitutionName": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA"
+    },
+    {
+    "bic": "SOGEINBBBLR",
+    "recInstitutionName": "SOCIETE GENERALE"
+    },
+    {
+    "bic": "SOININ55179",
+    "recInstitutionName": "SOUTH INDIAN BANK LTD., THE"
+    },
+    {
+    "bic": "SRCBINBBAUR",
+    "recInstitutionName": "SARASWAT CO-OPERATIVE BANK LTD., THE"
+    },
+    {
+    "bic": "STBPINBBXXX",
+    "recInstitutionName": "STATE BANK OF PATIALA"
+    },
+    {
+    "bic": "STCBINBXNPT",
+    "recInstitutionName": "STATE BANK OF MAURITIUS LIMITED"
+    },
+    {
+    "bic": "STININBBXXX",
+    "recInstitutionName": "STATE BANK OF INDORE"
+    },
+    {
+    "bic": "SVCBINBBBLR",
+    "recInstitutionName": "THE SHAMRAO VITHAL CO-OPERATIVE BANK LIMITED"
+    },
+    {
+    "bic": "SYNBINBBXXX",
+    "recInstitutionName": "SYNDICATE BANK"
+    },
+    {
+    "bic": "TCILINBBXXX",
+    "recInstitutionName": "THOMAS COOK (INDIA) LTD."
+    },
+    {
+    "bic": "TMBLINBBCHE",
+    "recInstitutionName": "TAMILNAD MERCANTILE BANK LIMITED"
+    },
+    {
+    "bic": "UBININBBXXX",
+    "recInstitutionName": "UNION BANK OF INDIA"
+    },
+    {
+    "bic": "UBSWINBBXXX",
+    "recInstitutionName": "UBS AG"
+    },
+    {
+    "bic": "UCBAINBBXXX",
+    "recInstitutionName": "UCO BANK"
+    },
+    {
+    "bic": "UTBIINBBECB",
+    "recInstitutionName": "UNITED BANK OF INDIA"
+    },
+    {
+    "bic": "VIJBINBBXXX",
+    "recInstitutionName": "VIJAYA BANK"
+    },
+    {
+    "bic": "VTBRINDDXXX",
+    "recInstitutionName": "JSC VTB BANK, NEW DELHI BRANCH"
+    },
+    {
+    "bic": "VYSAINBBAHD",
+    "recInstitutionName": "ING VYSYA BANK LTD."
+    },
+    {
+    "bic": "YESBINBBDEL",
+    "recInstitutionName": "YES BANK LIMITED"
+    }
+    ]

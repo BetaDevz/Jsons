@@ -1,0 +1,38 @@
+[
+    {
+    "messageCode": "CHQB",
+    "instruction": "beneficiary customer must be paid by cheque only."
+    },
+    {
+    "messageCode": "CORT",
+    "instruction": "Payment is made in settlement for a trade."
+    },
+    {
+    "messageCode": "HOLD",
+    "instruction": "Beneficiary customer or claimant will call upon identification."
+    },
+    {
+    "messageCode": "INTC",
+    "instruction": "Payment between two companies that belongs to the same group."
+    },
+    {
+    "messageCode": "PHOB",
+    "instruction": "Please advise the intermediary institution by phone."
+    },
+    {
+    "messageCode": "PHOI",
+    "instruction": "Please advise the intermediary by phone."
+    },
+    {
+    "messageCode": "PHON",
+    "instruction": "Please advise the account with institution by phone."
+    },
+    {
+    "messageCode": "REPA",
+    "instruction": "Payments has a related e-Payments reference."
+    },
+    {
+    "messageCode": "SDVA",
+    "instruction": "Payment must be executed with same day value to the"
+    }
+    ]

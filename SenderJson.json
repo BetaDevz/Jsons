@@ -1,0 +1,248 @@
+[
+    {
+    "customerId": 13645221972859,
+    "accountHolderName": "ANUPAMA N",
+    "balance": 95000,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 14783038759432,
+    "accountHolderName": "ANANTHAMURTHY SHAMASUNDARA",
+    "balance": 100,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 15510851190541,
+    "accountHolderName": "AJAY SHAMU KUMAR",
+    "balance": 224004,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 17308739433267,
+    "accountHolderName": "AREEFIKBAL T F",
+    "balance": 65000,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 20050293665889,
+    "accountHolderName": "ASHAJYOTHI M",
+    "balance": 224008,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 27216037942722,
+    "accountHolderName": "HDFC BANK -(GOA)",
+    "balance": 224004,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 27225043545104,
+    "accountHolderName": "ASADI LINGAREDDY",
+    "balance": 1556002,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 34835543999244,
+    "accountHolderName": "ANAND L S",
+    "balance": 56001,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 37437137526069,
+    "accountHolderName": "ANIL KUMAR",
+    "balance": 35800,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 39145971759304,
+    "accountHolderName": "ABRAHAM VARGHESE",
+    "balance": 5200,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 42895235807723,
+    "accountHolderName": "HDFC BANK -(DELHI)",
+    "balance": 1120005,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 45002608912874,
+    "accountHolderName": "HDFC BANK -(MUMBAI)",
+    "balance": 56001,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 45766734966995,
+    "accountHolderName": "ABHISHEK BIYANI",
+    "balance": 224000,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 46957845854316,
+    "accountHolderName": "ANITHA B ASHWATH",
+    "balance": 56001,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 47468155457802,
+    "accountHolderName": "A S VIJAY KUMAR",
+    "balance": 56000,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 49823469696097,
+    "accountHolderName": "ASHOKA AR",
+    "balance": 56200,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 53853797183656,
+    "accountHolderName": "B A SANTOSH",
+    "balance": 224005,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 57577094248867,
+    "accountHolderName": "ARJUN PARAMESWARA",
+    "balance": 508250,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 57792220815896,
+    "accountHolderName": "B JAYARAM",
+    "balance": 1120025,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 61331727051606,
+    "accountHolderName": "ANJAN KUMAR G",
+    "balance": 224004,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 63615912257030,
+    "accountHolderName": "ANU",
+    "balance": 76334,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 64059555180495,
+    "accountHolderName": "AKSHAYA WEALTH MANAGEMENT (P) LTD",
+    "balance": 224001,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 64754104823235,
+    "accountHolderName": "ANKITA BANERJEE",
+    "balance": 224001,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 69443662887399,
+    "accountHolderName": "ANIL KUMAR NAGARAJ",
+    "balance": 56001,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 69652133523248,
+    "accountHolderName": "HDFC BANK -(CHENNAI)",
+    "balance": 223997,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 71319440983198,
+    "accountHolderName": "A M MAYANNA",
+    "balance": 224000,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 71928505646815,
+    "accountHolderName": "ASHOK H R",
+    "balance": 46000,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 72153770404022,
+    "accountHolderName": "B PRAKASH BABU",
+    "balance": 0,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 76396804083946,
+    "accountHolderName": "ANANTHAKUMAR",
+    "balance": 224004,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 77236671175938,
+    "accountHolderName": "ANIL V GORUR",
+    "balance": 224001,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 78195245302715,
+    "accountHolderName": "A RAJESH KUMAR",
+    "balance": 35000,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 79029264231605,
+    "accountHolderName": "AYISHA KAUSAR",
+    "balance": 224008,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 79594243111085,
+    "accountHolderName": "ANITA B MEHTA",
+    "balance": -25000,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 80505259371358,
+    "accountHolderName": "ANNUKA NIRVAN",
+    "balance": 76334,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 81181212472499,
+    "accountHolderName": "ASHISH MISHRA",
+    "balance": 224005,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 83020817828620,
+    "accountHolderName": "A KRISHNA MOHAN",
+    "balance": 56000,
+    "overdraft": "Yes"
+    },
+    {
+    "customerId": 83411975607693,
+    "accountHolderName": "ABY GEORGE",
+    "balance": 15400,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 87030077359017,
+    "accountHolderName": "ANIL GUPTA",
+    "balance": 25600,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 87139550565094,
+    "accountHolderName": "ABHITHA",
+    "balance": 223997,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 89479615455884,
+    "accountHolderName": "ARPITHA M S",
+    "balance": -350,
+    "overdraft": "No"
+    },
+    {
+    "customerId": 98196009547795,
+    "accountHolderName": "AVISHEK MUKHERJEE",
+    "balance": 56002,
+    "overdraft": "No"
+    }
+    ]
